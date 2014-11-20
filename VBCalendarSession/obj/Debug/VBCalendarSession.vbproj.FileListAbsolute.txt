@@ -1,9 +1,0 @@
-c:\users\ruchira_agarwal\documents\visual studio 2012\Projects\VBCalendarSession\VBCalendarSession\bin\Debug\VBCalendarSession.exe.config
-c:\users\ruchira_agarwal\documents\visual studio 2012\Projects\VBCalendarSession\VBCalendarSession\bin\Debug\VBCalendarSession.exe
-c:\users\ruchira_agarwal\documents\visual studio 2012\Projects\VBCalendarSession\VBCalendarSession\bin\Debug\VBCalendarSession.pdb
-c:\users\ruchira_agarwal\documents\visual studio 2012\Projects\VBCalendarSession\VBCalendarSession\bin\Debug\VBCalendarSession.xml
-c:\users\ruchira_agarwal\documents\visual studio 2012\Projects\VBCalendarSession\VBCalendarSession\obj\Debug\VBCalendarSession.Resources.resources
-c:\users\ruchira_agarwal\documents\visual studio 2012\Projects\VBCalendarSession\VBCalendarSession\obj\Debug\VBCalendarSession.vbproj.GenerateResource.Cache
-c:\users\ruchira_agarwal\documents\visual studio 2012\Projects\VBCalendarSession\VBCalendarSession\obj\Debug\VBCalendarSession.exe
-c:\users\ruchira_agarwal\documents\visual studio 2012\Projects\VBCalendarSession\VBCalendarSession\obj\Debug\VBCalendarSession.xml
-c:\users\ruchira_agarwal\documents\visual studio 2012\Projects\VBCalendarSession\VBCalendarSession\obj\Debug\VBCalendarSession.pdb
